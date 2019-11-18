@@ -63,6 +63,7 @@ button.btn-primary:hover{
 }
 .card .card-title{
 	font-family: constantia_bold, serif;
+	font-weight: bold;
 }
 .container :nth-last-child(n+2) .card .card-body:before {
 	z-index: 1;
