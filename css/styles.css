@@ -106,3 +106,7 @@ button.btn-primary:hover{
 	font-weight: bold;
 	font-size: 16pt;
 }
+
+.modal.show .modal-dialog {
+    max-width: 700px;
+}
